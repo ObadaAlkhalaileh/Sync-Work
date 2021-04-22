@@ -10,3 +10,5 @@ let a = "hello"
 let b = 3
 
 let c = "d"
+
+let d = 'sun'
